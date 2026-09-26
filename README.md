@@ -1,2 +1,2 @@
 # mi-tareo-privacy
-Politic de privacidad de Mi Tareo
+Politica de privacidad de Mi Tareo
